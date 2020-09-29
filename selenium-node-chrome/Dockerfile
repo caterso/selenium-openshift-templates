@@ -1,4 +1,4 @@
-FROM selenium/node-chrome:3.6.0
+FROM selenium/node-chrome:85.0
 
 ENV HOME=/home/seluser
 
